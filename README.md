@@ -3,9 +3,11 @@
 
 - ✈ I’m currently working at **LATAM Airlines Group S.A.**
 
-- 🎓I'm a degree in Airport Logistics and also have an MBA in Business Management
+- 🎓I obtained a **degree in Airport Logistics** and also have an **MBA in Business Management**
 
 - 🌱 I’m currently learning **Java**
+
+- 🆗 I have some knowledge in PHP, Javascript, Python, HTML and MySQL
 
 - 💻 All of my projects are available at [https://github.com/Caioseal?tab=repositories](https://github.com/Caioseal?tab=repositories)
 
