@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Caio</h1>
 <h3 align="center">A passionate software developer student from Brazil</h3>
 
-- 🔭 I’m currently working at **LATAM Airlines Group S.A.**
+- ✈ I’m currently working at **LATAM Airlines Group S.A.**
+
+- 🎓I'm a degree in Airport Logistics and also have an MBA in Business Management
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Caioseal?tab=repositories](https://github.com/Caioseal?tab=repositories)
+- 💻 All of my projects are available at [https://github.com/Caioseal?tab=repositories](https://github.com/Caioseal?tab=repositories)
 
 - 📫 How to reach me **caioseal@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/caio-sergio-santos/](https://www.linkedin.com/in/caio-sergio-santos/)
 
-- ⚡ Fun fact **I'll start to study Software Development at SAIT in Calgary, Canada ca in January 2022**
+- ⚡ Fun fact **I'll start to study Software Development at SAIT in Calgary, Canada in January 2022**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
