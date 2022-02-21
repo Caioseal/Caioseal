@@ -3,19 +3,19 @@
 
 - ✈ I’m currently working at **LATAM Airlines Group S.A.**
 
-- 🎓I have a **degree in Airport Logistics** and I also have an **MBA in Business Management**
+- 🎓I have a **degree in Airport Logistics** and I also have an **MBA in Business Management**.
 
-- 🌱 I'm currently attending a part-time boot camp of Full-Stack Development at Tera and learning the following technologies: 
-**- HTML, CSS, Javascript
-- BootStrap
-- Node.Js e Express
-- Mongo DB
-- Integração de APIs
-- React
-- Python
-- Flash
-- SQL
-- AWS**
+- 🌱 I'm currently attending a part-time boot camp of Full-Stack Development at <a href="https://somostera.com/cursos/full-stack-development">Tera</a> and learning the following technologies:
+  - **HTML, CSS, Javascript**
+  - **BootStrap**
+  - **Node.Js and Express**
+  - **Mongo DB**
+  - **APIs Integration**
+  - **React**
+  - **Python**
+  - **Flash**
+  - **SQL**
+  - **AWS**
 
 - 🆗 I already have some knowledge in **PHP, Java, Javascript, Python, HTML, CSS and MySQL**
 
@@ -34,8 +34,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/caio-sergio-santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caio-sergio-santos" height="30" width="40" /></a>
-<a href="https://fb.com/caioseal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="caioseal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/caioseal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="caioseal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
