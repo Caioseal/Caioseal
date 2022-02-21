@@ -5,9 +5,19 @@
 
 - 🎓I have a **degree in Airport Logistics** and I also have an **MBA in Business Management**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I'm currently attending a part-time boot camp of Full-Stack Development at Tera and learning the following technologies: 
+**- HTML, CSS, Javascript
+- BootStrap
+- Node.Js e Express
+- Mongo DB
+- Integração de APIs
+- React
+- Python
+- Flash
+- SQL
+- AWS**
 
-- 🆗 I have some knowledge in **PHP, Javascript, Python, HTML and MySQL**
+- 🆗 I already have some knowledge in **PHP, Java, Javascript, Python, HTML, CSS and MySQL**
 
 - 💻 All of my projects are available at **[https://github.com/Caioseal?tab=repositories](https://github.com/Caioseal?tab=repositories)**
 
