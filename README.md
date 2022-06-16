@@ -13,7 +13,7 @@
   - **APIs Integration**
   - **React**
   - **Python**
-  - **Flash**
+  - **Flask**
   - **SQL**
   - **AWS**
 
